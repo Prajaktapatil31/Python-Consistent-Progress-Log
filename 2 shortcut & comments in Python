@@ -1,0 +1,12 @@
+ctrl + d : shortcut for replicating the line (repeating)
+ctrl + / : shortcut for comment & uncomment
+
+
+# This is a comment 
+
+# : pound symbol 
+
+'''
+multiline
+comment
+'''
