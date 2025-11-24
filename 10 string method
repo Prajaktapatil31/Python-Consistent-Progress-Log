@@ -1,0 +1,10 @@
+
+name='priya'
+print(name.upper()) #PRIYA
+print(name.capitalize()) #Priya
+print(name.count('y')) #1
+print(name.isalnum()) #True (alphanumeric - made up of alphabet+ numbers)
+
+n=5
+print(n.isnumeric()) #True
+print(name.isnumeric()) #False
