@@ -1,0 +1,15 @@
+
+#variable names are case sensitive 
+
+priya = 5
+priya = 10
+
+means these two are different variables 
+
+ways to write string
+a='apple'
+b="apple"
+c='''apple'''  #its not a comment bcos we write it in a variable 
+d='apple'\
+  'ia a fruit'   #multiline string 
+print(a, b, c) #apple apple apple apple is a fruit 
