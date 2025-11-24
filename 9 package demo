@@ -1,23 +1,35 @@
 '''
-pthon ki popularity ki sbse badi vajah hai pip modules
+python ki popularity ki sbse badi vajah hai pip modules
 
 pip - pip ke help se modules ko install kr sakte hai
 modules - modules ka matlb code written by other person 
-pandas- ye python ka package 
+pandas- ye python ka package hai
 
-in terminal write 
+in terminal write this
 pip install pandas
 pip install openpyxl
 
 run and terminal are different
-we can write anything on terminal but on run screen, it shows output (pip3 for mac os)
+we can write anything on terminal but on run screen, it shows output 
+(pip3 for mac os)
+
+sklearn package : for machine learning implementation 
+pdf_reader package : to read or merge pdf
+PyPDF2 library: agr 2 pdfs ko merge krneka software banana hoto ya is tarikeka kuch kam krna hoto
+text to speech package 
+notification package 
+
 '''
-
-
-
 
 #df = pandas.read_csv()
 
 
+
+
 df = pandas.read_excel ("File.xlsx")
 print (df)
+
+we can also write like
+
+import pandas as pd
+df = pd.read_excel("File.xlsx")
