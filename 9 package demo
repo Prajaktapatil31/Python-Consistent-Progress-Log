@@ -1,0 +1,23 @@
+'''
+pthon ki popularity ki sbse badi vajah hai pip modules
+
+pip - pip ke help se modules ko install kr sakte hai
+modules - modules ka matlb code written by other person 
+pandas- ye python ka package 
+
+in terminal write 
+pip install pandas
+pip install openpyxl
+
+run and terminal are different
+we can write anything on terminal but on run screen, it shows output (pip3 for mac os)
+'''
+
+
+
+
+#df = pandas.read_csv()
+
+
+df = pandas.read_excel ("File.xlsx")
+print (df)
