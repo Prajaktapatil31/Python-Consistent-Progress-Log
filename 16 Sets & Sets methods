@@ -1,0 +1,14 @@
+'''
+Set is a collection of well defined objects in maths.
+
+In python,
+Set is unordered collection of unique elements.
+'''
+
+a={3,5,78,5,5,5}
+print(a)    #{3,5,78}
+
+b={3,5,78}
+a.clear()
+pritn(a)       #Set{}
+print(b)       #{3,5,78}
