@@ -1,0 +1,10 @@
+'''
+we can store multiple elements in list.
+elements can be of dame type as well as different data types
+
+'''
+
+
+l1=[1,7,9,7]
+print(type(l1))   #<class list>
+print(l1)         #[1,7,9,7]
