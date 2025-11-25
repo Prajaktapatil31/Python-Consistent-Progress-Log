@@ -20,6 +20,9 @@ list2 = [4,78,6,300,80,150]
 list2.sort()
 print(list2)     #[4,6,78,80,150,300]
 
+#list slicing 
+print(list2[0:3])     #[4,6,78]
+
 pritn(list2.index(4))   #0
 
 list2.pop()
